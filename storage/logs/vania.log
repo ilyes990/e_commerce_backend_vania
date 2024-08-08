@@ -1,0 +1,1 @@
+[2024-08-07 11:50:53] ERROR: MySQLServerException [1054]: Unknown column 'last_used_at' in 'field list'
